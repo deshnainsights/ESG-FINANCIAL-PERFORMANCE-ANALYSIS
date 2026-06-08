@@ -103,7 +103,6 @@ Investment risk assessment
 - PCA
 - Business Analytics
 - ESG Analytics
-
-  ## Business Impact
-
+  
+## Business Impact
 The analysis demonstrates how ESG metrics can be incorporated into investment decision-making. While ESG scores may not directly predict superior returns, they can provide valuable insights for portfolio risk management and sustainable investing strategies.
